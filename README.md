@@ -2,15 +2,19 @@
 
 A simple Notes App
 
-## Getting Started
+<h3> Teck Stacks </h3>
 
-This project is a starting point for a Flutter application.
+- Material 3
+- widgets
+- clean artitecture
 
-A few resources to get you started if this is your first Flutter project:
+<h3> Demo </h3>
+<p align = "left">
+<img src = https://github.com/Rohit-554/Flutter_Notes/assets/48874687/edd8d90c-dc3b-4144-b078-81d2367511dc.jpg width = "200" height = "430">
+<img src = https://github.com/Rohit-554/Flutter_Notes/assets/48874687/3529c21c-414e-498a-bcc0-935913e09b8f.jpg width = "200" height = "430">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ <h3> Video Demo </h3>
+ <img src = https://github.com/Rohit-554/Flutter_Notes/assets/48874687/fb505152-0e31-4d1f-9571-25db7a8f9e7a.gif width = "200" height = "430">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
